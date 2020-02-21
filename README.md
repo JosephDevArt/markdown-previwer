@@ -9,4 +9,4 @@
 
 ### Demo:
 
-[Click here](https://josephdevart.github.io/random-quote-machine/)
+[Click here](https://josephdevart.github.io/markdown-previwer/)
